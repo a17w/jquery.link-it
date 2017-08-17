@@ -9,7 +9,7 @@
         "jquery-plugin",
         "ecosystem"
     ],
-    "version": "0.4.0",
+    "version": "0.5.0",
     "author": {
         "name": "Annie Wong",
         "url": "http://anniehswong.com"
@@ -28,7 +28,7 @@
         }
     ],
     "homepage": "https://github.com/anniehswong/jquery.linkit",
-    "repository": "https://github.com/jquery/jquery-color",
+    "repository": "https://github.com/anniehswong/jquery.linkit",
     "dependencies": {
         "jquery": ">=1.9"
     }
