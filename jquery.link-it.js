@@ -1,12 +1,12 @@
 /*
- * name: LinkIt
+ * name: link-it
  * author: Annie Wong
- * version: 0.5.0
+ * version: 0.5.1
  * license: MIT
  */
 
 (function($) {
-  $.fn.linkIt = function(options) {
+  $.fn.linkit = function(options) {
     // Default Settings
     var settings = $.extend({
       href: null,
@@ -16,7 +16,7 @@
 
     // Validation
     if (settings.href == null) {
-      console.log('You need an href option for LinkIt to work');
+      console.log('You need an href option for link-it to work');
       return this;
     }
 

@@ -1,6 +1,6 @@
 {
-    "name": "linkIt",
-    "title": "linkIt jQuery Plugin",
+    "name": "link-it",
+    "title": "Link-it jQuery Plugin",
     "description": "jQuery plugin to convert any element into a link",
     "keywords": [
         "link",
@@ -9,7 +9,7 @@
         "jquery-plugin",
         "ecosystem"
     ],
-    "version": "0.5.0",
+    "version": "0.5.1",
     "author": {
         "name": "Annie Wong",
         "url": "http://anniehswong.com"
@@ -24,11 +24,11 @@
     "licenses": [
         {
             "type": "MIT",
-            "url": "https://github.com/anniehswong/jquery.linkIt/LICENSE.txt"
+            "url": "https://github.com/anniehswong/jquery.link-it/blob/master/LICENSE"
         }
     ],
-    "homepage": "https://github.com/anniehswong/jquery.linkit",
-    "repository": "https://github.com/anniehswong/jquery.linkit",
+    "homepage": "https://github.com/anniehswong/jquery.link-it",
+    "repository": "https://github.com/anniehswong/jquery.link-it",
     "dependencies": {
         "jquery": ">=1.9"
     }
