@@ -1,0 +1,33 @@
+{
+    "name": "linkIt",
+    "title": "linkIt jQuery Plugin",
+    "description": "jQuery plugin to convert any element into a link",
+    "keywords": [
+        "link",
+        "html",
+        "content"
+    ],
+    "version": "0.1.0",
+    "author": {
+        "name": "Annie Wong",
+        "url": "http://anniehswong.com"
+    },
+    "maintainers": [
+        {
+            "name": "Annie Wong",
+            "email": "annie.hs.wong@gmail.com",
+            "url": "http://anniehswong.com"
+        }
+    ],
+    "licenses": [
+        {
+            "type": "MIT",
+            "url": "https://github.com/anniehswong/jquery.linkIt/LICENSE.txt"
+        }
+    ],
+    "homepage": "https://github.com/anniehswong/jquery.linkit",
+    "docs": "https://github.com/jquery/jquery-color",
+    "dependencies": {
+        "jquery": ">=1.9"
+    }
+}
