@@ -1,7 +1,7 @@
 # LinkIt jQuery Plugin
 **LinkIt** is a simple jQuery plugin to attach links to elements
 ## Version
-0.2.0
+0.4.0
 ## Usage
 ```javascript
     $('span').linkIt({
